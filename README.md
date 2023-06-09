@@ -1,2 +1,4 @@
-# lb
-A load balancer from first principles
+# LB
+
+- A round-robin load balancer from first principles
+
